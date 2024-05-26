@@ -1,4 +1,4 @@
-#1- Diagrama de classes: biblioteca
+# 1- Diagrama de classes: biblioteca
 L’objectiu d’aquesta activitat és aprofundir en els conceptes dels diagrames de classes.
 En una biblioteca es vol portar un control dels llibres existents, dels socis de la biblioteca i dels préstecs que s’han efectuat.
 De cada llibre poden existir un o molts exemplars, així com cada exemplar haurà de trobar-se en un catàleg. Per això, es podrà donar entrada a un exemplar al catàleg o donar-li sortida. Cada exemplar es trobarà en un possible estat:
@@ -17,7 +17,7 @@ Es demana realitzar el diagrama de classes per a aquest enunciat.
 També s’haurà d’entregar l’esquelet del codi en java a partir del diagrama de clases.
 
 
-#2- Diagrama de seqüència: biblioteca
+# 2- Diagrama de seqüència: biblioteca
 
 L’objectiu d’aquesta activitat és aprofundir en els conceptes dels diagrames de seqüències.
 
